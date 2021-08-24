@@ -1,0 +1,29 @@
+.container {
+	width:800px;
+	margin: auto;
+	padding:20px 0 0 0;
+}
+.container1 {
+    width:400px;
+    margin: auto;
+    padding: 20px 6px;
+    border: 1px solid #000;}
+ul{padding:0px; text-align:right;}
+ul li{list-style:none; font-weight:600;}
+p {
+    padding: 0px;
+    margin: 0 0 4px 0;
+    font-size: 14px;
+}
+/*.greyBg{background:beige; -webkit-print-color-adjust:exact;}*/
+.greyBg{
+background-color:beige;
+}
+.container1 p {
+    padding: 0px;
+    margin: 0 0 4px 0;
+    font-size: 13px;
+}
+.container1 .table {
+    margin: 6px 0 10px 0;
+}

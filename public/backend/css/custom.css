@@ -1,0 +1,180 @@
+/* Write your custom CSS here */
+
+.success {
+
+    background-color: #ecf3e6;
+
+    border-color: #dfebd5;
+
+    color: #8fbb6c;
+
+
+
+}
+
+.error {
+
+    color: #f56b6b;
+
+    padding-left: 0px !important;
+
+    background-color: #f1d9d9;
+
+}
+
+.error_text {
+
+    color: #f56b6b !important;
+
+}
+
+.input-notification {
+
+    color: #f56b6b
+}
+
+.notification {
+
+    padding: 10px;
+
+    margin-bottom: 10px;
+
+    border: 1px solid transparent;
+
+    border-radius: 3px;
+
+}
+
+.fclose {
+    float: right;
+}
+
+th a .fa {
+    font-size: 20px;
+}
+
+.error li {
+    list-style: none;
+}
+
+.required::before {
+
+    content: "\f005";
+
+    display: inline-block;
+
+    font-family: "FontAwesome";
+
+    font-size: 9px;
+
+    color: #f00;
+
+}
+
+.lowerCase {
+    text-transform: lowercase;
+}
+
+.dropdown-menu p {
+
+    display: block;
+
+    letter-spacing: normal;
+
+    line-height: 20px;
+
+    margin: 0 0 0px;
+
+    font-style: normal;
+
+    white-space: normal;
+
+}
+
+.dropdown-menu blockquote {
+
+    padding: 0px 20px;
+
+    margin: 0 0 20px;
+
+    font-size: 14px;
+
+    border-left: 5px solid #eee;
+
+}
+
+.dropdown-menu pre {
+
+    display: block;
+
+    padding: 2.5px;
+
+    margin: 0 0 0px;
+
+    font-size: 13px;
+
+    line-height: 1.42857143;
+
+    color: #333;
+
+    word-break: break-all;
+
+    word-wrap: break-word;
+
+    background-color: #f5f5f5;
+
+    border: 1px solid #ccc;
+
+    border-radius: 4px;
+
+}
+
+label.control-label span::after {
+
+    font-family: FontAwesome;
+
+    color: #22BAA0;
+
+    content: "\f059";
+
+    margin-left: 4px;
+
+}
+
+.form-group+.form-group {
+
+    border-top: 1px solid #ededed;
+
+}
+
+.form-group {
+
+    padding-top: 15px;
+
+    padding-bottom: 15px;
+
+    margin-bottom: 0;
+
+}
+
+.ui-datepicker-month {
+    color: #000 !important;
+}
+
+.dataTables_length {
+    float: left;
+}
+
+.dataTables_filter {
+    float: right;
+}
+
+.title {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.text-red-600 {
+    color: red;
+}
